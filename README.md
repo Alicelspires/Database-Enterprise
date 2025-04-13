@@ -17,6 +17,14 @@ As consultas sobre EMPRESA visam extrair informações, como:
 - Dependências familiares: Funcionários com dependentes de mesmo nome.
 - Eficiência por departamento: Comparação salarial e carga horária.
 
+## Modelagem
+
+<div align="center">
+        
+![image](https://github.com/user-attachments/assets/8d82f4e4-e6b6-4dc9-a581-0385113aef31)
+
+</div>
+
 ## Tabelas e suas informações inseridas
 ### Funcionário
 ![funcionario](https://github.com/user-attachments/assets/71a9523c-8d21-4886-9015-313ad23602f1)
@@ -35,6 +43,7 @@ As consultas sobre EMPRESA visam extrair informações, como:
 
 ### Dependente
 ![dependente](https://github.com/user-attachments/assets/4628310f-b10f-4dcd-973a-d70bbf218146)
+
 
 ## Queries
 
