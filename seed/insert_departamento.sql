@@ -1,0 +1,4 @@
+INSERT INTO DEPARTAMENTO VALUES
+('Pequisa', 5, '33344555557', '1988-05-22'),
+('Administração', 4, '98765432168', '1996-01-01'),
+('Matriz', 1,'8886655576', '1981-05-19');
